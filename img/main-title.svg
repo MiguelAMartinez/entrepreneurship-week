@@ -1,0 +1,21 @@
+<svg width="320" height="180" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="182" width="322" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="56" id="svg_1" y="72.450012" x="24.5" stroke-width="0" stroke="#000" fill="#56aaff">UT</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="86" id="svg_2" y="146.450012" x="80.5" stroke-width="0" stroke="#000" fill="#56aaff">E</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="40" id="svg_5" y="143.450012" x="141.5" stroke-width="0" stroke="#000" fill="#56aaff">WEEK</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="16" id="svg_7" y="105.450012" x="141.5" stroke-width="0" stroke="#000" fill="#56aaff">NTREPRENEURSHIP</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="56" id="svg_8" y="77.450012" x="28.5" stroke-width="0" stroke="#000" fill="#ffffff">UT</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="86" id="svg_9" y="151.450012" x="84.5" stroke-width="0" stroke="#000" fill="#ffffff">E</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="40" id="svg_10" y="148.450012" x="145.5" stroke-width="0" stroke="#000" fill="#ffffff">WEEK</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="16" id="svg_11" y="110.450012" x="145.5" stroke-width="0" stroke="#000" fill="#ffffff">NTREPRENEURSHIP</text>
+ </g>
+</svg>

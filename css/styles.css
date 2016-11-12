@@ -5,3 +5,17 @@
 	box-sizing: border-box;
 }
 
+.header-main {
+	background-color: #D0CFCF;
+	display: flex;
+	justify-content: center;
+	/*height: 400px;*/
+}
+
+.div-header {
+	width: 95%;
+}
+
+.img-header {
+	width: 100%;
+}
