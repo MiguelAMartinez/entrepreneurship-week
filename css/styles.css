@@ -78,3 +78,42 @@ main{
 	padding: 20px;
 	line-height: 140%;
 }
+
+.div-sponsor {
+	height: 500px;
+	background: url("../img/sponsor.jpeg") center no-repeat fixed;
+    background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.section-div-sponsor {
+	/*margin: 0 auto;*/
+	background-color: white;
+	height: 100px;
+	width: 500px;
+	border-radius: 25px;
+}
+
+.h2-sponsor {
+
+}
+
+.div-botton-sponsor {
+
+}
+
+.p-botton-sponsor {
+
+}
+
+.div-speakers {
+	height: 500px;
+	background-color: white;
+
+}
+
+.section-div-speakers {
+
+}
