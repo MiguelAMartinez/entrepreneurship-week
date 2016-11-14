@@ -89,23 +89,37 @@ main{
 }
 
 .section-div-sponsor {
-	/*margin: 0 auto;*/
 	background-color: white;
-	height: 100px;
-	width: 500px;
+	height: 180px;
+	width: 690px;
 	border-radius: 25px;
+	text-align: center;
+	align-content: center;
 }
 
 .h2-sponsor {
+	font-size: 36px;
+	padding: 20px 0;
 
 }
 
 .div-botton-sponsor {
+	margin: 10px auto 0;
+	background-color: #4286f4;
+	width: 160px;
+	border-radius: 25px;
+	padding: 5px;
+	text-align: center;
+}
 
+.div-botton-sponsor:hover {
+	background-color: #79D2FC;
+	cursor: pointer;
 }
 
 .p-botton-sponsor {
-
+	color: white;
+	font-size: 20px;
 }
 
 .div-speakers {
