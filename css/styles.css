@@ -161,3 +161,30 @@
 	line-height: 220%;
 }
 
+.div-top-timer {
+	height: 200px;
+	background: linear-gradient(to right bottom, #2f3441 50%, #212531 50%);
+}
+
+.div-timer {
+	height: 300px;
+	background-color: #212531;
+}
+
+.div-bottom-timer {
+	height: 200px;
+	background: linear-gradient(to right bottom, #212531 50%, #2f3441 50%);	
+}
+
+.footer {
+	height: 100px;
+	background-color: #333;
+	text-align: center;
+}
+
+.p-footer {
+	color: #999;
+	padding-top: 30px;
+}
+
+
