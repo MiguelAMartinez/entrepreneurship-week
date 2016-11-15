@@ -10,10 +10,8 @@
 	background-color: #D0CFCF;
 	display: flex;
 	justify-content: center;
-	/*height: 400px;*/
-}
-
-main{ 
+	align-items: center;
+	height: 90vh;
 }
 
 .div-header {
@@ -80,7 +78,7 @@ main{
 }
 
 .div-sponsor {
-	height: 500px;
+	height: 550px;
 	background: url("../img/sponsor.jpeg") center no-repeat fixed;
     background-size: cover;
 	display: flex;
@@ -90,17 +88,16 @@ main{
 
 .section-div-sponsor {
 	background-color: white;
-	height: 180px;
-	width: 690px;
+	height: 170px;
+	width: 810px;
 	border-radius: 25px;
 	text-align: center;
-	align-content: center;
+	border: 3px dashed grey;
 }
 
 .h2-sponsor {
-	font-size: 36px;
+	font-size: 42px;
 	padding: 20px 0;
-
 }
 
 .div-botton-sponsor {
@@ -109,7 +106,6 @@ main{
 	width: 160px;
 	border-radius: 25px;
 	padding: 5px;
-	text-align: center;
 }
 
 .div-botton-sponsor:hover {
@@ -123,11 +119,45 @@ main{
 }
 
 .div-speakers {
-	height: 500px;
+	margin: 40px 0;
 	background-color: white;
-
 }
 
 .section-div-speakers {
-
+	text-align: center;
 }
+
+.h2-speakers {
+	font-size: 60px;
+}
+
+.div-speaker-list {
+	max-width: 1100px;
+	margin: 0 auto;
+	padding: 70px 20px;
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.div-speaker {
+	width: 420px;
+	margin: 10px 0;
+}
+
+.img-speaker {
+	width: 200px;
+}
+
+.h3-speaker-name {
+	font-size: 26px;
+	font-weight: 400;
+	line-height: 140%;
+}
+
+.p-speaker-title {
+	font-size: 19px;
+	font-weight: 300;
+	line-height: 220%;
+}
+
