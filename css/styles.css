@@ -23,7 +23,7 @@
 }
 
 .div-info {
-	background-color: #DFE6E2;
+	background-color: #fff;
 }
 
 .div-div-info {
@@ -41,40 +41,10 @@
 	padding: 0 15px;
 }
 
-.h2-about {
-	text-transform: uppercase;
-	color: #4286f4;
-	font-size: 44px;
-	font-weight: 700;
-} 
-
 .p-about {
 	line-height: 220%;
 	font-size: 26px;
 	font-weight: 300;
-	margin: 24px 0;
-}
-
-.div-moreinfo {
-	max-width: 350px;
-}
-
-.section-moreinfo {
-	border: 2px solid white;
-}
-
-.h3-moreinfo {
-	padding: 25px 20px 0;
-	color: #4286f4;
-	text-transform: uppercase;
-} 
-
-.p-moreinfo {
-	text-transform: uppercase;
-	font-size: 28px;
-	font-weight: 300;
-	padding: 20px;
-	line-height: 140%;
 }
 
 .div-sponsor {
